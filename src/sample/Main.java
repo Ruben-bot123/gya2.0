@@ -15,7 +15,9 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import sample.FastFourierTransform;
 
-
+/**
+ * test hej
+ */
 
 public class Main extends Application implements Mediator
 {
